@@ -1,0 +1,19 @@
+.banner {
+  background-image: url("../../images/background.png");
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.banner p {
+  font-size: 20px;
+  color: rgb(200,200,200);
+}
+
+.banner h1,
+.banner p {
+  text-shadow: 0 0 10px black;
+}
